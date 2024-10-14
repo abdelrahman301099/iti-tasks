@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|c:\\users\\tera max\\source\\repos\\day11tasks\\day11tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|solutionrelative:day11tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|c:\\users\\tera max\\source\\repos\\day11tasks\\day11tasks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|solutionrelative:day11tasks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|c:\\users\\tera max\\source\\repos\\day11tasks\\day11tasks\\repositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|solutionrelative:day11tasks\\repositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|c:\\users\\tera max\\source\\repos\\day11tasks\\day11tasks\\libraryengin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|solutionrelative:day11tasks\\libraryengin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|c:\\users\\tera max\\source\\repos\\day11tasks\\day11tasks\\bookfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34EA276-AE3A-4E6F-9087-EFE304E574A6}|Day11Tasks\\Day11Tasks.csproj|solutionrelative:day11tasks\\bookfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Book.cs",
+              "RelativeDocumentMoniker": "Day11Tasks\\Book.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Book.cs",
+              "RelativeToolTip": "Day11Tasks\\Book.cs",
+              "ViewState": "AQIAACIAAAAAMzMzMzMLwCsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:04:10.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repositry.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Repositry.cs",
+              "RelativeDocumentMoniker": "Day11Tasks\\Repositry.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Repositry.cs",
+              "RelativeToolTip": "Day11Tasks\\Repositry.cs",
+              "ViewState": "AQIAAAcAAACAmZmZmZkBwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:00:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryEngin.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\LibraryEngin.cs",
+              "RelativeDocumentMoniker": "Day11Tasks\\LibraryEngin.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\LibraryEngin.cs",
+              "RelativeToolTip": "Day11Tasks\\LibraryEngin.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:59:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\BookFunction.cs",
+              "RelativeDocumentMoniker": "Day11Tasks\\BookFunction.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\BookFunction.cs",
+              "RelativeToolTip": "Day11Tasks\\BookFunction.cs",
+              "ViewState": "AQIAAAwAAABgZmZmZmYkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:58:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Day11Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day11Tasks\\Day11Tasks\\Program.cs",
+              "RelativeToolTip": "Day11Tasks\\Program.cs",
+              "ViewState": "AQIAAA8AAABgZmZmZmYkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:41:50.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

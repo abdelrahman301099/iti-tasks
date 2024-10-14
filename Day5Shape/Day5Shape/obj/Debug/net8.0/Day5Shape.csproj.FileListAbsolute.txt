@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\bin\Debug\net8.0\Day5Shape.exe
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\bin\Debug\net8.0\Day5Shape.deps.json
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\bin\Debug\net8.0\Day5Shape.runtimeconfig.json
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\bin\Debug\net8.0\Day5Shape.dll
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\bin\Debug\net8.0\Day5Shape.pdb
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.dll
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\refint\Day5Shape.dll
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.pdb
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\Day5Shape.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\Day5Shape\Day5Shape\obj\Debug\net8.0\ref\Day5Shape.dll

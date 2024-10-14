@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|c:\\users\\tera max\\source\\repos\\day8employeestruct\\day8employeestruct\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|solutionrelative:day8employeestruct\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|c:\\users\\tera max\\source\\repos\\day8employeestruct\\day8employeestruct\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|solutionrelative:day8employeestruct\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|c:\\users\\tera max\\source\\repos\\day8employeestruct\\day8employeestruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|solutionrelative:day8employeestruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|c:\\users\\tera max\\source\\repos\\day8employeestruct\\day8employeestruct\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|solutionrelative:day8employeestruct\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|c:\\users\\tera max\\source\\repos\\day8employeestruct\\day8employeestruct\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D662B39-2D96-4EB1-84EE-EC7EB89FEC76}|Day8EmployeeStruct\\Day8EmployeeStruct.csproj|solutionrelative:day8employeestruct\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\HireDate.cs",
+              "RelativeDocumentMoniker": "Day8EmployeeStruct\\HireDate.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\HireDate.cs",
+              "RelativeToolTip": "Day8EmployeeStruct\\HireDate.cs",
+              "ViewState": "AQIAAAIAAAAAMzMzMzMrwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:47:36.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\SecurityLevel.cs",
+              "RelativeDocumentMoniker": "Day8EmployeeStruct\\SecurityLevel.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\SecurityLevel.cs",
+              "RelativeToolTip": "Day8EmployeeStruct\\SecurityLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:04:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Gender.cs",
+              "RelativeDocumentMoniker": "Day8EmployeeStruct\\Gender.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Gender.cs",
+              "RelativeToolTip": "Day8EmployeeStruct\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:02:34.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Employee.cs",
+              "RelativeDocumentMoniker": "Day8EmployeeStruct\\Employee.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Employee.cs",
+              "RelativeToolTip": "Day8EmployeeStruct\\Employee.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwCkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:43:57.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Program.cs",
+              "RelativeDocumentMoniker": "Day8EmployeeStruct\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day8EmployeeStruct\\Day8EmployeeStruct\\Program.cs",
+              "RelativeToolTip": "Day8EmployeeStruct\\Program.cs",
+              "ViewState": "AQIAAEYAAAAgMzMzMzMrwE4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:43:06.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\bin\Debug\net8.0\day5Queue.exe
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\bin\Debug\net8.0\day5Queue.deps.json
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\bin\Debug\net8.0\day5Queue.runtimeconfig.json
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\bin\Debug\net8.0\day5Queue.dll
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\bin\Debug\net8.0\day5Queue.pdb
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.dll
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\refint\day5Queue.dll
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.pdb
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\day5Queue.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\day5Queue\day5Queue\obj\Debug\net8.0\ref\day5Queue.dll

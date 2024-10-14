@@ -1,0 +1,52 @@
+﻿@page
+@model NVCDay1.Pages.UserInfoModel
+@{
+    Layout = "_MyLayout";
+}
+<form>
+    <lable>UserName</lable>
+    <input type="text" name="UserName" placeholder="Name" />
+
+    <lable>Age</lable>
+    <input type="text" name="Age" placeholder="Age" />
+
+
+    <lable>Address</lable>
+    <input type="text" name="Address" placeholder="Address" />
+
+
+    <lable>Male</lable>
+    <input type="radio" name="gender" value="male" />
+
+    <lable>Female</lable>
+    <input type="radio" name="gender" value="femLe" />
+
+    <button>Submit</button>
+</form>
+
+@{
+    string? userName = Request.Query["UserName"];
+    int? userAge = Request.Query.ContainsKey("age") ? int.Parse(Request.Query["age"]) : 0;
+
+    string? address = Request.Query["address"];
+    string? gender = Request.Query["gender"];
+
+    if (userName != null && userAge != null && address != null && gender != null)
+    {
+        if (userAge < 18)
+        {
+            <p style="color: red">user age must be over 18</p>
+        }
+        else
+        {
+            if (gender.ToLower() == "fmale")
+            {
+                <p style="color : pink"> Hello @userName your age is @userAge </p>
+            }
+            else
+            {
+                <p style="color : green"> Hello @userName your age is @userAge </p>
+            }
+        }
+    }
+}

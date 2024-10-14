@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\NVCDay1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F923F62-C84D-4D73-BF5A-233D9FE7CEA3}|NVCDay1\\NVCDay1.csproj|c:\\users\\tera max\\source\\repos\\nvcday1\\nvcday1\\pages\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F923F62-C84D-4D73-BF5A-233D9FE7CEA3}|NVCDay1\\NVCDay1.csproj|solutionrelative:nvcday1\\pages\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F923F62-C84D-4D73-BF5A-233D9FE7CEA3}|NVCDay1\\NVCDay1.csproj|c:\\users\\tera max\\source\\repos\\nvcday1\\nvcday1\\pages\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F923F62-C84D-4D73-BF5A-233D9FE7CEA3}|NVCDay1\\NVCDay1.csproj|solutionrelative:nvcday1\\pages\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\NVCDay1\\NVCDay1\\Pages\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "NVCDay1\\Pages\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\NVCDay1\\NVCDay1\\Pages\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "NVCDay1\\Pages\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T15:02:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\NVCDay1\\NVCDay1\\Pages\\UserInfo.cshtml",
+              "RelativeDocumentMoniker": "NVCDay1\\Pages\\UserInfo.cshtml",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\NVCDay1\\NVCDay1\\Pages\\UserInfo.cshtml",
+              "RelativeToolTip": "NVCDay1\\Pages\\UserInfo.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T15:01:07.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

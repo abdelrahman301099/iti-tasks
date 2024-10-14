@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\bin\Debug\net8.0\linqTasks.exe
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\bin\Debug\net8.0\linqTasks.deps.json
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\bin\Debug\net8.0\linqTasks.runtimeconfig.json
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\bin\Debug\net8.0\linqTasks.dll
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\bin\Debug\net8.0\linqTasks.pdb
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.dll
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\refint\linqTasks.dll
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.pdb
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\linqTasks.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\linqTasks\linqTasks\obj\Debug\net8.0\ref\linqTasks.dll

@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\bin\Debug\net8.0\testIsEqual.exe
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\bin\Debug\net8.0\testIsEqual.deps.json
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\bin\Debug\net8.0\testIsEqual.runtimeconfig.json
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\bin\Debug\net8.0\testIsEqual.dll
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\bin\Debug\net8.0\testIsEqual.pdb
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.dll
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\refint\testIsEqual.dll
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.pdb
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\testIsEqual.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\testIsEqual\testIsEqual\obj\Debug\net8.0\ref\testIsEqual.dll

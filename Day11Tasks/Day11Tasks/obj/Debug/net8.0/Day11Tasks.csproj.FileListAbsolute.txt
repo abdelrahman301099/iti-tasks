@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\bin\Debug\net8.0\Day11Tasks.exe
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\bin\Debug\net8.0\Day11Tasks.deps.json
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\bin\Debug\net8.0\Day11Tasks.runtimeconfig.json
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\bin\Debug\net8.0\Day11Tasks.dll
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\bin\Debug\net8.0\Day11Tasks.pdb
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.dll
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\refint\Day11Tasks.dll
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.pdb
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\Day11Tasks.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\Day11Tasks\Day11Tasks\obj\Debug\net8.0\ref\Day11Tasks.dll

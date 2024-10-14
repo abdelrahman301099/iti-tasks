@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\bin\Debug\net8.0\Arr2D.exe
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\bin\Debug\net8.0\Arr2D.deps.json
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\bin\Debug\net8.0\Arr2D.runtimeconfig.json
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\bin\Debug\net8.0\Arr2D.dll
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\bin\Debug\net8.0\Arr2D.pdb
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.dll
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\refint\Arr2D.dll
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.pdb
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\Arr2D.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\Arr2D\Arr2D\obj\Debug\net8.0\ref\Arr2D.dll

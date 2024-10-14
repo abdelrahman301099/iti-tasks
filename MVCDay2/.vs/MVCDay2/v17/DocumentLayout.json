@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|c:\\users\\tera max\\source\\repos\\mvcday2\\mvcday2\\views\\viewalldata\\viewalldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|solutionrelative:mvcday2\\views\\viewalldata\\viewalldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|c:\\users\\tera max\\source\\repos\\mvcday2\\mvcday2\\views\\viewalldata\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|solutionrelative:mvcday2\\views\\viewalldata\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|c:\\users\\tera max\\source\\repos\\mvcday2\\mvcday2\\controllers\\viewalldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|solutionrelative:mvcday2\\controllers\\viewalldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|c:\\users\\tera max\\source\\repos\\mvcday2\\mvcday2\\models\\drugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|solutionrelative:mvcday2\\models\\drugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|c:\\users\\tera max\\source\\repos\\mvcday2\\mvcday2\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C34623-253A-4341-B41F-12FF4EEC80CD}|MVCDay2\\MVCDay2.csproj|solutionrelative:mvcday2\\models\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Views\\ViewAllData\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDay2\\Views\\ViewAllData\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Views\\ViewAllData\\Details.cshtml",
+              "RelativeToolTip": "MVCDay2\\Views\\ViewAllData\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:31:51.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewAllData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Views\\ViewAllData\\ViewAllData.cshtml",
+              "RelativeDocumentMoniker": "MVCDay2\\Views\\ViewAllData\\ViewAllData.cshtml",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Views\\ViewAllData\\ViewAllData.cshtml",
+              "RelativeToolTip": "MVCDay2\\Views\\ViewAllData\\ViewAllData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:19:46.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewAllDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Controllers\\ViewAllDataController.cs",
+              "RelativeDocumentMoniker": "MVCDay2\\Controllers\\ViewAllDataController.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Controllers\\ViewAllDataController.cs",
+              "RelativeToolTip": "MVCDay2\\Controllers\\ViewAllDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:17:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drug.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Models\\Drug.cs",
+              "RelativeDocumentMoniker": "MVCDay2\\Models\\Drug.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Models\\Drug.cs",
+              "RelativeToolTip": "MVCDay2\\Models\\Drug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:54:24.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drugs.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Models\\Drugs.cs",
+              "RelativeDocumentMoniker": "MVCDay2\\Models\\Drugs.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\MVCDay2\\MVCDay2\\Models\\Drugs.cs",
+              "RelativeToolTip": "MVCDay2\\Models\\Drugs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:50:57.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

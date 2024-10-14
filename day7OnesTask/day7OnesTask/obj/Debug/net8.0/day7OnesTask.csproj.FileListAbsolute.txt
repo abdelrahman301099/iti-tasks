@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\bin\Debug\net8.0\day7OnesTask.exe
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\bin\Debug\net8.0\day7OnesTask.deps.json
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\bin\Debug\net8.0\day7OnesTask.runtimeconfig.json
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\bin\Debug\net8.0\day7OnesTask.dll
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\bin\Debug\net8.0\day7OnesTask.pdb
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.dll
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\refint\day7OnesTask.dll
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.pdb
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\day7OnesTask.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\day7OnesTask\day7OnesTask\obj\Debug\net8.0\ref\day7OnesTask.dll

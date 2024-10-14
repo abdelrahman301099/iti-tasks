@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\bin\Debug\net8.0\day7ReverseTask.exe
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\bin\Debug\net8.0\day7ReverseTask.deps.json
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\bin\Debug\net8.0\day7ReverseTask.runtimeconfig.json
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\bin\Debug\net8.0\day7ReverseTask.dll
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\bin\Debug\net8.0\day7ReverseTask.pdb
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.dll
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\refint\day7ReverseTask.dll
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.pdb
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\day7ReverseTask.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\day7ReverseTask\day7ReverseTask\obj\Debug\net8.0\ref\day7ReverseTask.dll

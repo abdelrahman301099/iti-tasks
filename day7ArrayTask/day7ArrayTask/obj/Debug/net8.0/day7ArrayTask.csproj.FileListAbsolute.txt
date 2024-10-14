@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\bin\Debug\net8.0\day7ArrayTask.exe
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\bin\Debug\net8.0\day7ArrayTask.deps.json
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\bin\Debug\net8.0\day7ArrayTask.runtimeconfig.json
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\bin\Debug\net8.0\day7ArrayTask.dll
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\bin\Debug\net8.0\day7ArrayTask.pdb
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.dll
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\refint\day7ArrayTask.dll
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.pdb
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\day7ArrayTask.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\day7ArrayTask\day7ArrayTask\obj\Debug\net8.0\ref\day7ArrayTask.dll

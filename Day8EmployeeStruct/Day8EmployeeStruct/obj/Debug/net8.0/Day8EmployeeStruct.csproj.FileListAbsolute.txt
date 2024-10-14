@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\bin\Debug\net8.0\Day8EmployeeStruct.exe
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\bin\Debug\net8.0\Day8EmployeeStruct.deps.json
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\bin\Debug\net8.0\Day8EmployeeStruct.runtimeconfig.json
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\bin\Debug\net8.0\Day8EmployeeStruct.dll
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\bin\Debug\net8.0\Day8EmployeeStruct.pdb
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.dll
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\refint\Day8EmployeeStruct.dll
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.pdb
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\Day8EmployeeStruct.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\Day8EmployeeStruct\Day8EmployeeStruct\obj\Debug\net8.0\ref\Day8EmployeeStruct.dll

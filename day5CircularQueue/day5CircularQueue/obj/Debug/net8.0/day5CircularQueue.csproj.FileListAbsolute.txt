@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\bin\Debug\net8.0\day5CircularQueue.exe
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\bin\Debug\net8.0\day5CircularQueue.deps.json
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\bin\Debug\net8.0\day5CircularQueue.runtimeconfig.json
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\bin\Debug\net8.0\day5CircularQueue.dll
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\bin\Debug\net8.0\day5CircularQueue.pdb
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.dll
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\refint\day5CircularQueue.dll
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.pdb
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\day5CircularQueue.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\day5CircularQueue\day5CircularQueue\obj\Debug\net8.0\ref\day5CircularQueue.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\day5CircularQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CF30D-78BF-447F-BCCD-BF7150137386}|day5CircularQueue\\day5CircularQueue.csproj|c:\\users\\tera max\\source\\repos\\day5circularqueue\\day5circularqueue\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CF30D-78BF-447F-BCCD-BF7150137386}|day5CircularQueue\\day5CircularQueue.csproj|solutionrelative:day5circularqueue\\circularqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1CF30D-78BF-447F-BCCD-BF7150137386}|day5CircularQueue\\day5CircularQueue.csproj|c:\\users\\tera max\\source\\repos\\day5circularqueue\\day5circularqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1CF30D-78BF-447F-BCCD-BF7150137386}|day5CircularQueue\\day5CircularQueue.csproj|solutionrelative:day5circularqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircularQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\day5CircularQueue\\day5CircularQueue\\CircularQueue.cs",
+              "RelativeDocumentMoniker": "day5CircularQueue\\CircularQueue.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\day5CircularQueue\\day5CircularQueue\\CircularQueue.cs",
+              "RelativeToolTip": "day5CircularQueue\\CircularQueue.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwFUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:13:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\day5CircularQueue\\day5CircularQueue\\Program.cs",
+              "RelativeDocumentMoniker": "day5CircularQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\day5CircularQueue\\day5CircularQueue\\Program.cs",
+              "RelativeToolTip": "day5CircularQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:12:53.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

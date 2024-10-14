@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<ul>
+
+
+@foreach(Drug drug in Model)
+{
+        <li>@drug.Id </li>
+        <li>@drug.Name </li>
+        <li>@drug.Description </li>
+        <li><img src="~/Images/images.jpeg"/> </li>
+        <li> <a class="btn btn-primary" href="/ViewAllData/Details/@drug.Id"/> Go To Details</li>
+}
+</ul>

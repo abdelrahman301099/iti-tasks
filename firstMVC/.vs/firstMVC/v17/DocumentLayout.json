@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\coursresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\coursresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\context\\organizationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\context\\organizationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|c:\\users\\tera max\\source\\repos\\firstmvc\\firstmvc\\models\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46437E54-44F6-486F-AF13-21A2A35B9717}|firstMVC\\firstMVC.csproj|solutionrelative:firstmvc\\models\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrganizationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Context\\OrganizationContext.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Context\\OrganizationContext.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Context\\OrganizationContext.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Context\\OrganizationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:54:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursResult.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\CoursResult.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\CoursResult.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\CoursResult.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\CoursResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:49:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Trainee.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Trainee.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:47:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Acount.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Acount.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\Acount.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Acount.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\Acount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:43:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:40:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:40:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "firstMVC\\Models\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\firstMVC\\firstMVC\\Models\\Entities\\Instructor.cs",
+              "RelativeToolTip": "firstMVC\\Models\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:30:35.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

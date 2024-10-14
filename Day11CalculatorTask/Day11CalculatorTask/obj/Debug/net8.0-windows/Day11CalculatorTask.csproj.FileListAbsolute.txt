@@ -1,0 +1,16 @@
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\bin\Debug\net8.0-windows\Day11CalculatorTask.exe
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\bin\Debug\net8.0-windows\Day11CalculatorTask.deps.json
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\bin\Debug\net8.0-windows\Day11CalculatorTask.runtimeconfig.json
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\bin\Debug\net8.0-windows\Day11CalculatorTask.dll
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\bin\Debug\net8.0-windows\Day11CalculatorTask.pdb
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.Form1.resources
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.csproj.GenerateResource.cache
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.dll
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\refint\Day11CalculatorTask.dll
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.pdb
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\Day11CalculatorTask.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\Day11CalculatorTask\Day11CalculatorTask\obj\Debug\net8.0-windows\ref\Day11CalculatorTask.dll

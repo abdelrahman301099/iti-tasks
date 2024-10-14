@@ -1,0 +1,14 @@
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\bin\Debug\net8.0\TestingGenericList.exe
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\bin\Debug\net8.0\TestingGenericList.deps.json
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\bin\Debug\net8.0\TestingGenericList.runtimeconfig.json
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\bin\Debug\net8.0\TestingGenericList.dll
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\bin\Debug\net8.0\TestingGenericList.pdb
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.AssemblyInfoInputs.cache
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.AssemblyInfo.cs
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.dll
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\refint\TestingGenericList.dll
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.pdb
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\TestingGenericList.genruntimeconfig.cache
+C:\Users\Tera Max\source\repos\TestingGenericList\TestingGenericList\obj\Debug\net8.0\ref\TestingGenericList.dll

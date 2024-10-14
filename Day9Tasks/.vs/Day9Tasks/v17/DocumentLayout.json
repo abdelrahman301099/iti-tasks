@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|c:\\users\\tera max\\source\\repos\\day9tasks\\day9tasks\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|solutionrelative:day9tasks\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|c:\\users\\tera max\\source\\repos\\day9tasks\\day9tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|solutionrelative:day9tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|c:\\users\\tera max\\source\\repos\\day9tasks\\day9tasks\\pint3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|solutionrelative:day9tasks\\pint3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|c:\\users\\tera max\\source\\repos\\day9tasks\\day9tasks\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|solutionrelative:day9tasks\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|c:\\users\\tera max\\source\\repos\\day9tasks\\day9tasks\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E8223-D365-4C0B-8C0F-12EC3A8666EA}|Day9Tasks\\Day9Tasks.csproj|solutionrelative:day9tasks\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Math.cs",
+              "RelativeDocumentMoniker": "Day9Tasks\\Math.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Math.cs",
+              "RelativeToolTip": "Day9Tasks\\Math.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:52:31.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pint3D.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Pint3D.cs",
+              "RelativeDocumentMoniker": "Day9Tasks\\Pint3D.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Pint3D.cs",
+              "RelativeToolTip": "Day9Tasks\\Pint3D.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:57:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingleTone.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\SingleTone.cs",
+              "RelativeDocumentMoniker": "Day9Tasks\\SingleTone.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\SingleTone.cs",
+              "RelativeToolTip": "Day9Tasks\\SingleTone.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:45:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Duration.cs",
+              "RelativeDocumentMoniker": "Day9Tasks\\Duration.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Duration.cs",
+              "RelativeToolTip": "Day9Tasks\\Duration.cs",
+              "ViewState": "AQIAAKUAAABAMTMzMzMbwK4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:20:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Day9Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\Day9Tasks\\Day9Tasks\\Program.cs",
+              "RelativeToolTip": "Day9Tasks\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAABAPUMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:56:13.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

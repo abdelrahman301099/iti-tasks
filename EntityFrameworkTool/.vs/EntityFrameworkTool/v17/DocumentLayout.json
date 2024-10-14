@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\migrations\\20240725162753_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\migrations\\20240725162753_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\entities\\dapartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\entities\\dapartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\entityframeworktool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\entityframeworktool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|c:\\users\\tera max\\source\\repos\\entityframeworktool\\entityframeworktool\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC14E69C-C470-41A3-B917-F25C72A73407}|EntityFrameworkTool\\EntityFrameworkTool.csproj|solutionrelative:entityframeworktool\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240725162753_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Migrations\\20240725162753_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Migrations\\20240725162753_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Migrations\\20240725162753_InitialCreate.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Migrations\\20240725162753_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:27:54.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240725155151_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Migrations\\20240725155151_InitialCreate.cs",
+              "ViewState": "AQIAAAQAAAAwMzMzMzMrwCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:51:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Context\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Context\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Context\\CompanyDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Context\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:27:12.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityFrameworkTool.csproj",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\EntityFrameworkTool.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\EntityFrameworkTool.csproj",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\EntityFrameworkTool.csproj",
+              "RelativeToolTip": "EntityFrameworkTool\\EntityFrameworkTool.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T15:26:33.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dapartment.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Entities\\Dapartment.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Entities\\Dapartment.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Entities\\Dapartment.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Entities\\Dapartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:24:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Entities\\Employee.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:22:39.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkTool\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\EntityFrameworkTool\\EntityFrameworkTool\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkTool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:11:54.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

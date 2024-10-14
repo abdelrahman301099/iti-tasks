@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|c:\\users\\tera max\\source\\repos\\testinggenericlist\\testinggenericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|solutionrelative:testinggenericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|c:\\users\\tera max\\source\\repos\\testinggenericlist\\testinggenericlist\\bubblsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|solutionrelative:testinggenericlist\\bubblsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|c:\\users\\tera max\\source\\repos\\testinggenericlist\\testinggenericlist\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|solutionrelative:testinggenericlist\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|c:\\users\\tera max\\source\\repos\\testinggenericlist\\testinggenericlist\\sortfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8015B-977D-4BEB-BACD-7D38B2750AF9}|TestingGenericList\\TestingGenericList.csproj|solutionrelative:testinggenericlist\\sortfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\SortFunctions.cs",
+              "RelativeDocumentMoniker": "TestingGenericList\\SortFunctions.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\SortFunctions.cs",
+              "RelativeToolTip": "TestingGenericList\\SortFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:42:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubblSort.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\BubblSort.cs",
+              "RelativeDocumentMoniker": "TestingGenericList\\BubblSort.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\BubblSort.cs",
+              "RelativeToolTip": "TestingGenericList\\BubblSort.cs",
+              "ViewState": "AQIAAAAAAABgZmZmZmYkwCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:34:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\Functions.cs",
+              "RelativeDocumentMoniker": "TestingGenericList\\Functions.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\Functions.cs",
+              "RelativeToolTip": "TestingGenericList\\Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:33:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\Program.cs",
+              "RelativeDocumentMoniker": "TestingGenericList\\Program.cs",
+              "ToolTip": "C:\\Users\\Tera Max\\source\\repos\\TestingGenericList\\TestingGenericList\\Program.cs*",
+              "RelativeToolTip": "TestingGenericList\\Program.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:14:45.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
